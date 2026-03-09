@@ -16,7 +16,7 @@ class DialogBox extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return AlertDialog(
-      backgroundColor: Colors.yellow[300],
+      backgroundColor: const Color.fromARGB(255, 235, 138, 28),
       content: SizedBox(
         height: 120.0,
         child: Column(
@@ -24,6 +24,7 @@ class DialogBox extends StatelessWidget {
           children: [
             // get user input
             TextField(
+              style: TextStyle(color: Colors.white),
               controller: controller,
               autofocus: true,
               decoration: InputDecoration(

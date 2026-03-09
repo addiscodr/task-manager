@@ -85,7 +85,7 @@ class _HomePageState extends State<HomePage> {
         backgroundColor: Colors.purple,
         centerTitle: true,
         title: Text(
-          "MY DAILY ROUTINES",
+          "TASK MANAGER",
           style: TextStyle(
             color: Colors.white,
             fontSize: 21.0,
