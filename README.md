@@ -1,10 +1,8 @@
 # Task Manager
 
-A new Flutter project.
+### Description 
+This project is built using Flutter and TMDB API.
 
-### Getting Started
-
-This project is a starting point for a Flutter application.
-
+### Click Thumbnail to View Demo of the App
 [![Watch Demo](https://img.youtube.com/vi/ET-Ig46V4EE/0.jpg)](https://www.youtube.com/watch?v=ET-Ig46V4EE)
 
